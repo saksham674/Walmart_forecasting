@@ -120,7 +120,6 @@ The analysis includes data cleaning, outlier removal, correlation analysis, and 
 - Significant variation in performance across stores
 - Prophet successfully generated future sales forecasts
 
-
 ---
 
 ## 📷 Visualizations Included
@@ -129,6 +128,13 @@ The analysis includes data cleaning, outlier removal, correlation analysis, and 
 - Seasonal decomposition graphs
 - Store-wise comparison charts
 - Forecast plots
+
+ ### Forecast Output
+![Forecast](forecast.png)
+
+### EDA Analysis
+![EDA](eda.png)
+
 
 ---
 
